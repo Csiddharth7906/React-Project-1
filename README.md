@@ -1,4 +1,4 @@
-# 🛍️ React eCommerce Website
+# 🛍️ React eCommerce Website ;
 
 A simple and responsive eCommerce frontend built using **React**, **Vite**, and **Tailwind CSS**. This project showcases a clean product listing page, product cards, and basic shopping features.
 
